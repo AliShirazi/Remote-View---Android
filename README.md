@@ -1,10 +1,10 @@
 
 
-innerID SDK Remote View-
+Remote View-
 
-A version of our 'experience' applications for the innerID SDK that would use the camera to take a picture of your finger and send it to an AWS EC2 server for processing using Google Protocol Buffer. This processing would involve using a patented algorithm to analyze the image and then convert it to use for authentic fingerprint authentication.  It was developed in 2014 without UI/UX guidance. 
+A version of the'experience' applications for the innerID SDK that would use the camera to take a picture of your finger and send it to an AWS EC2 server for processing using Google Protocol Buffer. This processing would involve using a patented algorithm to analyze the image and then convert it to use for authentic fingerprint authentication.  It was developed in 2014 without UI/UX guidance. 
 
-The application uses the innerID SDK, which used Android NDK to pull the C fingerprint processing algorithm and use it in the Android application. Eclipse used for development.
+The application uses the innerID SDK, which I used Android NDK to pull the C fingerprint processing algorithm and use it in the Android application. Eclipse used for Android development.
 
 
 ****NOTE****
